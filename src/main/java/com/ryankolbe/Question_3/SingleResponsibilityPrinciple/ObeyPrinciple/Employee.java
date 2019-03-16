@@ -6,10 +6,10 @@ public class Employee {
     private String empSurname;
     private int yearJoined;
 
-    public Employee(int empNumber, String empName, String studentSurname, int yearJoined) {
+    public Employee(int empNumber, String empName, String empSurname, int yearJoined) {
         this.empNumber = empNumber;
         this.empName = empName;
-        this.empSurname = studentSurname;
+        this.empSurname = empSurname;
         this.yearJoined = yearJoined;
     }
 
