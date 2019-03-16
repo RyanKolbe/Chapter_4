@@ -2,7 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab5087a4-c5a4-4c88-a8f0-50134081bcb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/Gelato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/GelatoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/GelatoInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/IceCreamShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/ShopPointOfSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/SoftServeIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/SoftServeImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/Gelato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/IceCreamShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/Softserve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/Cyclist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/CyclistInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/Gymnist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/GymnistInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ViolatePrinciple/AthleteInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ViolatePrinciple/RunnerImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/HumanClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ViolatePrinciple/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ViolatePrinciple/HumanClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ViolatePrinciple/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ViolatePrinciple/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CircumferenceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/ShapeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ViolatePrinciple/CircumferenceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ViolatePrinciple/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/CyclistTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/GymnistTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CircumferenceCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ViolatePrinciple/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/BonusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ViolatePrinciple/EmployeeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Bonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Bonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Bonus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ViolatePrinciple/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ViolatePrinciple/Employee.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,8 +59,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit4 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,32 +74,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_1/Refuel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_1/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_1/VehicleTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_1/AeroplaneTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Querstion_2/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_1/Aeroplane.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Querstion_2/Aeroplane.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Querstion_2/Refuel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/Refuel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/InterfaceImplementation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/VehicleConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/Aeroplane.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/Aeroplane_Client.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_2/AeroplaneTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_2/VehicleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_2/InterfaceImplementationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_1/Aeroplane_Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/ObeyPrinciple.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Model.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/CalculateYearsActive.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Bonus.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ViolatePrinciple/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Employee.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/BonusTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Bonus.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ViolatePrinciple/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CalculateCircumference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CircumferenceInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/InterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ViolatePrinciple/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/ShapeInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CIrcumferenceCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CircumferenceCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CircumferenceCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ViolatePrinciple/RectangleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/Man.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/HumanClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/Woman.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ViolatePrinciple/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ViolatePrinciple/HumanClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ViolatePrinciple/AthleteInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ViolatePrinciple/RunnerImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/RunnerInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/SwimmerInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/GymnistInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/CyclistInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/Cyclist.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/CyclistTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/Gymnist.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/GymnistTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/Softserve.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/IceCreamShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/Gelato.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/IceCreamShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/SoftServeIceCream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/SoftServeImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/ShopPointOfSale.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/Gelato.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/GelatoImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/GelatoInterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/GelatoInterface.java" />
       </list>
     </option>
   </component>
@@ -75,7 +141,9 @@
     <option name="width" value="697" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -94,6 +162,144 @@
               <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+              <item name="Question_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+              <item name="Question_3" type="462c0819:PsiDirectoryNode" />
+              <item name="DependencyInversionPrinciple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+              <item name="Question_3" type="462c0819:PsiDirectoryNode" />
+              <item name="DependencyInversionPrinciple" type="462c0819:PsiDirectoryNode" />
+              <item name="ObeyPrinciple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+              <item name="Question_3" type="462c0819:PsiDirectoryNode" />
+              <item name="DependencyInversionPrinciple" type="462c0819:PsiDirectoryNode" />
+              <item name="ViolatePrinciple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+              <item name="Question_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+              <item name="Question_3" type="462c0819:PsiDirectoryNode" />
+              <item name="InterfaceSegregationPrinciple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+              <item name="Question_3" type="462c0819:PsiDirectoryNode" />
+              <item name="InterfaceSegregationPrinciple" type="462c0819:PsiDirectoryNode" />
+              <item name="ObeyPrinciple" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -104,7 +310,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552761941731" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552772314823" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -116,15 +322,26 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.ryankolbe.Question_2" />
-      <recent name="com.ryankolbe.Question_1" />
+      <recent name="com.ryankolbe.Question_3.InterfaceSegregationPrinciple.ObeyPrinciple" />
+      <recent name="com.ryankolbe.Question_3.OpenClosedPrinciple.ViolatePrinciple" />
+      <recent name="com.ryankolbe.Question_3.OpenClosedPrinciple.ObeyPrinciple" />
+      <recent name="com.ryankolbe.Question_3.SingleResponsibilityPrinciple.ViolatePrinciple" />
+      <recent name="com.ryankolbe.Question_3.SingleResponsibilityPrinciple.ObeyPrinciple" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ryankolbe.Question_3.DependencyInversionPrinciple.ObeyPrinciple" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ryankolbe.Question_3.InterfaceSegregationPrinciple.ObeyPrinciple" />
+      <recent name="com.ryankolbe.Question_3.OpenClosedPrinciple.ViolatePrinciple" />
       <recent name="com.ryankolbe.Question_3.SingleResponsibilityPrinciple.ViolatePrinciple" />
       <recent name="com.ryankolbe.Querstion_2" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan Kolbe\IdeaProjects\Chapter_4\src\main\java\com\ryankolbe\Question_3\LiskovSubstitutionPrinciple\ViolatePrinciple" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -139,75 +356,81 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Aeroplane_Client (1)">
-    <configuration name="Aeroplane_Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question_1.Aeroplane_Client" />
+  <component name="RunManager" selected="JUnit.GymnistTest">
+    <configuration name="CircumferenceCalculatorTest.calculateShapeCircuference" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Chapter_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ryankolbe.Question_1.*" />
+          <option name="PATTERN" value="com.ryankolbe.Question_3.OpenClosedPrinciple.ObeyPrinciple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aeroplane_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question_2.Aeroplane_Client" />
-      <module name="Chapter_4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ryankolbe.Question_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AeroplaneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Chapter_4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ryankolbe.Question_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ryankolbe.Question_1" />
-      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question_1.AeroplaneTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AeroplaneTest.refuelVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Chapter_4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ryankolbe.Question_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ryankolbe.Question_1" />
-      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question_1.AeroplaneTest" />
-      <option name="METHOD_NAME" value="refuelVehicle" />
+      <option name="PACKAGE_NAME" value="com.ryankolbe.Question_3.OpenClosedPrinciple.ObeyPrinciple" />
+      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question_3.OpenClosedPrinciple.ObeyPrinciple.CircumferenceCalculatorTest" />
+      <option name="METHOD_NAME" value="calculateShapeCircuference" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AeroplaneTest.setEngineCapacity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CyclistTest.cyclist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Chapter_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ryankolbe.Question_1.*" />
+          <option name="PATTERN" value="com.ryankolbe.Question_3.InterfaceSegregationPrinciple.ObeyPrinciple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ryankolbe.Question_1" />
-      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question_1.AeroplaneTest" />
-      <option name="METHOD_NAME" value="setEngineCapacity" />
+      <option name="PACKAGE_NAME" value="com.ryankolbe.Question_3.InterfaceSegregationPrinciple.ObeyPrinciple" />
+      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question_3.InterfaceSegregationPrinciple.ObeyPrinciple.CyclistTest" />
+      <option name="METHOD_NAME" value="cyclist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.canGetBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chapter_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ryankolbe.Question_3.SingleResponsibilityPrinciple.ViolatePrinciple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ryankolbe.Question_3.SingleResponsibilityPrinciple.ViolatePrinciple" />
+      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question_3.SingleResponsibilityPrinciple.ViolatePrinciple.EmployeeTest" />
+      <option name="METHOD_NAME" value="canGetBonus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymnistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chapter_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ryankolbe.Question_3.InterfaceSegregationPrinciple.ObeyPrinciple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ryankolbe.Question_3.InterfaceSegregationPrinciple.ObeyPrinciple" />
+      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question_3.InterfaceSegregationPrinciple.ObeyPrinciple.GymnistTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest.calculateCircumference" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chapter_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ryankolbe.Question_3.OpenClosedPrinciple.ViolatePrinciple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ryankolbe.Question_3.OpenClosedPrinciple.ViolatePrinciple" />
+      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question_3.OpenClosedPrinciple.ViolatePrinciple.RectangleTest" />
+      <option name="METHOD_NAME" value="calculateCircumference" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -215,11 +438,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aeroplane_Client (1)" />
-        <item itemvalue="Application.Aeroplane_Client" />
-        <item itemvalue="JUnit.AeroplaneTest" />
-        <item itemvalue="JUnit.AeroplaneTest.refuelVehicle" />
-        <item itemvalue="JUnit.AeroplaneTest.setEngineCapacity" />
+        <item itemvalue="JUnit.GymnistTest" />
+        <item itemvalue="JUnit.CyclistTest.cyclist" />
+        <item itemvalue="JUnit.RectangleTest.calculateCircumference" />
+        <item itemvalue="JUnit.CircumferenceCalculatorTest.calculateShapeCircuference" />
+        <item itemvalue="JUnit.EmployeeTest.canGetBonus" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +456,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552729030059</updated>
-      <workItem from="1552729031700" duration="26128000" />
+      <workItem from="1552729031700" duration="36099000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1552760125366</created>
@@ -246,39 +469,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AeroplaneTest - 2019.03.16 at 12h 59m 21s.xml">
-      <configuration name="AeroplaneTest" configurationId="JUnit" />
+    <history-entry file="BonusTest - 2019.03.16 at 21h 09m 14s.xml">
+      <configuration name="BonusTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AeroplaneTest - 2019.03.16 at 13h 03m 10s.xml">
-      <configuration name="AeroplaneTest" configurationId="JUnit" />
+    <history-entry file="BonusTest_canGetBonus - 2019.03.16 at 21h 10m 56s.xml">
+      <configuration name="BonusTest.canGetBonus" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AeroplaneTest_setNumberOfEngines - 2019.03.16 at 13h 05m 44s.xml">
-      <configuration name="AeroplaneTest.setNumberOfEngines" configurationId="JUnit" />
+    <history-entry file="BonusTest - 2019.03.16 at 21h 11m 04s.xml">
+      <configuration name="BonusTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AeroplaneTest - 2019.03.16 at 13h 05m 53s.xml">
-      <configuration name="AeroplaneTest" configurationId="JUnit" />
+    <history-entry file="BonusTest - 2019.03.16 at 21h 11m 34s.xml">
+      <configuration name="BonusTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AeroplaneTest_getEngineCapacity - 2019.03.16 at 13h 08m 02s.xml">
-      <configuration name="AeroplaneTest.getEngineCapacity" configurationId="JUnit" />
+    <history-entry file="EmployeeTest_canGetBonus - 2019.03.16 at 21h 14m 28s.xml">
+      <configuration name="EmployeeTest.canGetBonus" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AeroplaneTest_setEngineCapacity - 2019.03.16 at 13h 09m 34s.xml">
-      <configuration name="AeroplaneTest.setEngineCapacity" configurationId="JUnit" />
+    <history-entry file="CircumferenceCalculatorTest_calculateShapeCircuference - 2019.03.16 at 22h 02m 37s.xml">
+      <configuration name="CircumferenceCalculatorTest.calculateShapeCircuference" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AeroplaneTest_refuelVehicle - 2019.03.16 at 13h 12m 10s.xml">
-      <configuration name="AeroplaneTest.refuelVehicle" configurationId="JUnit" />
+    <history-entry file="RectangleTest_calculateCircumference - 2019.03.16 at 22h 09m 13s.xml">
+      <configuration name="RectangleTest.calculateCircumference" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AeroplaneTest - 2019.03.16 at 13h 12m 17s.xml">
-      <configuration name="AeroplaneTest" configurationId="JUnit" />
+    <history-entry file="CyclistTest_cyclist - 2019.03.16 at 22h 53m 39s.xml">
+      <configuration name="CyclistTest.cyclist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AeroplaneTest - 2019.03.16 at 15h 37m 29s.xml">
-      <configuration name="AeroplaneTest" configurationId="JUnit" />
+    <history-entry file="CyclistTest_cyclist - 2019.03.16 at 22h 54m 48s.xml">
+      <configuration name="CyclistTest.cyclist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AeroplaneTest - 2019.03.16 at 15h 38m 05s.xml">
-      <configuration name="AeroplaneTest" configurationId="JUnit" />
+    <history-entry file="GymnistTest - 2019.03.16 at 23h 03m 29s.xml">
+      <configuration name="GymnistTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26128000" />
+    <option name="totallyTimeSpent" value="36099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -288,10 +511,11 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2118003" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27155825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.32850242" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49924356" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49924356" weight="0.32850242" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -314,6 +538,39 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27155825" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32850242" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49924356" weight="0.32850242" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32850242" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32850242" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49924356" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.24962178" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -330,206 +587,6 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_1/Question_1App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/builders/JUnit4Builder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_1/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding>
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1012#1013#0" expanded="true" />
-            <element signature="e#1059#1060#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
-            <element signature="e#1159#1160#0" expanded="true" />
-            <element signature="e#1204#1205#0" expanded="true" />
-            <element signature="e#1240#1241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_1/Refuel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_1/Aeroplane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
-            <element signature="e#1201#1202#0" expanded="true" />
-            <element signature="e#1239#1240#0" expanded="true" />
-            <element signature="e#1276#1277#0" expanded="true" />
-            <element signature="e#1333#1334#0" expanded="true" />
-            <element signature="e#1385#1386#0" expanded="true" />
-            <element signature="e#1433#1434#0" expanded="true" />
-            <element signature="e#1498#1499#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/Refuel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_2/AeroplaneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/Aeroplane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#1559#1560#0" expanded="true" />
-            <element signature="e#1614#1615#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/VehicleConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_1/VehicleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/Aeroplane_Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_2/VehicleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_1/AeroplaneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="53" column="56" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_2/InterfaceImplementationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_2/InterfaceImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_1/Aeroplane_Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ViolatePrinciple/ViolatePrinciple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/ObeyPrinciple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/CalculateYearsActive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -541,23 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ViolatePrinciple/Employee.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Bonus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_4.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -565,6 +605,434 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/Bonus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ObeyPrinciple/BonusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ViolatePrinciple/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/SingleResponsibilityPrinciple/ViolatePrinciple/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CalculateCircumference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ViolatePrinciple/InterfaceImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CircleCircumference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/ShapeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_1/VehicleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CircumferenceCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ViolatePrinciple/CircumferenceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ObeyPrinciple/CircumferenceCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ViolatePrinciple/RectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/OpenClosedPrinciple/ViolatePrinciple/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/HumanClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/Woman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ViolatePrinciple/Woman.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ViolatePrinciple/Man.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ObeyPrinciple/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ViolatePrinciple/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/LiskovSubstitutionPrinciple/ViolatePrinciple/HumanClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ViolatePrinciple/RunnerImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/RunnerInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/SwimmerInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ViolatePrinciple/AthleteInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/GymnistInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/CyclistInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/Cyclist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/CyclistTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/Gymnist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/Question_3/InterfaceSegregationPrinciple/ObeyPrinciple/GymnistTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/Farm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/IceCreamShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/Gelato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ViolatePrinciple/Softserve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/IceCreamShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/SoftServeImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/ShopPointOfSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/SoftServeIceCream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/Gelato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/GelatoImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/GelatoInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/Question_3/DependencyInversionPrinciple/ObeyPrinciple/GelatoInterfaceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
